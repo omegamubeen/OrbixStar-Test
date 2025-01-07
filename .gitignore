@@ -1,0 +1,19 @@
+# Kotlin specific
+*.kt~
+*.kotlin_module
+
+# Gradle specific
+.gradle/
+build/
+out/
+.gradle-wrapper/
+
+# IntelliJ IDEA specific
+.idea/
+*.iml
+
+# macOS specific
+.DS_Store
+
+# Other IDEs
+.vscode/
