@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="label_title">Title</string>
+    <string name="label_artist">Category</string>
+    <string name="label_date">Price</string>
+    <string name="label_department">Description</string>
+    <string name="label_credits">Rating</string>
+
+    <string name="back">Back</string>
+</resources>

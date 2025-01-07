@@ -1,0 +1,59 @@
+com.orbixstar.kmpapp.composeApp-navigation-common-ktx-2.8.0-rc01-0 /Users/mac/.gradle/caches/8.10.2/transforms/03601ff5a6437527bfc1d515f4168605/transformed/navigation-common-ktx-2.8.0-rc01/res
+com.orbixstar.kmpapp.composeApp-navigation-runtime-2.8.0-rc01-1 /Users/mac/.gradle/caches/8.10.2/transforms/09f63e776409c8c58546f1732c5c6e4a/transformed/navigation-runtime-2.8.0-rc01/res
+com.orbixstar.kmpapp.composeApp-lifecycle-livedata-core-2.8.6-2 /Users/mac/.gradle/caches/8.10.2/transforms/137db4daafbb4b6fb03a43030b09c550/transformed/lifecycle-livedata-core-2.8.6/res
+com.orbixstar.kmpapp.composeApp-activity-ktx-1.9.3-3 /Users/mac/.gradle/caches/8.10.2/transforms/1627eea535f31af488dcb5c77a14ed9a/transformed/activity-ktx-1.9.3/res
+com.orbixstar.kmpapp.composeApp-ui-tooling-release-4 /Users/mac/.gradle/caches/8.10.2/transforms/2343b8bfe40707ff4eeef4743ff96f4f/transformed/ui-tooling-release/res
+com.orbixstar.kmpapp.composeApp-lifecycle-viewmodel-release-5 /Users/mac/.gradle/caches/8.10.2/transforms/26e90ed22eb824190778794a00518de4/transformed/lifecycle-viewmodel-release/res
+com.orbixstar.kmpapp.composeApp-graphics-path-1.0.1-6 /Users/mac/.gradle/caches/8.10.2/transforms/2bdddf599cff7753f90c2670aad8142c/transformed/graphics-path-1.0.1/res
+com.orbixstar.kmpapp.composeApp-animation-core-release-7 /Users/mac/.gradle/caches/8.10.2/transforms/34089a7a589837d2e8d8a889bbaf52c8/transformed/animation-core-release/res
+com.orbixstar.kmpapp.composeApp-annotation-experimental-1.4.1-8 /Users/mac/.gradle/caches/8.10.2/transforms/3612afdb74261aeb05a4a33d7b061ab6/transformed/annotation-experimental-1.4.1/res
+com.orbixstar.kmpapp.composeApp-lifecycle-runtime-release-9 /Users/mac/.gradle/caches/8.10.2/transforms/38d7df243b5bb6d0dfe8f8a2521016c2/transformed/lifecycle-runtime-release/res
+com.orbixstar.kmpapp.composeApp-ui-text-release-10 /Users/mac/.gradle/caches/8.10.2/transforms/3f01b732fa2ed68c8ba15b8ea7222979/transformed/ui-text-release/res
+com.orbixstar.kmpapp.composeApp-navigation-compose-2.8.0-rc01-11 /Users/mac/.gradle/caches/8.10.2/transforms/4a8418a9d2a419aad3a5df7370b93ec2/transformed/navigation-compose-2.8.0-rc01/res
+com.orbixstar.kmpapp.composeApp-lifecycle-viewmodel-ktx-2.8.6-12 /Users/mac/.gradle/caches/8.10.2/transforms/4adad51a68d9ed07ecaa4e2e38221f42/transformed/lifecycle-viewmodel-ktx-2.8.6/res
+com.orbixstar.kmpapp.composeApp-material3-release-13 /Users/mac/.gradle/caches/8.10.2/transforms/4db0c6e7daab1bcc741e838de9bdc538/transformed/material3-release/res
+com.orbixstar.kmpapp.composeApp-core-bundle-debug-14 /Users/mac/.gradle/caches/8.10.2/transforms/4fb91296a9d09d9f4657f382705d9c7f/transformed/core-bundle-debug/res
+com.orbixstar.kmpapp.composeApp-runtime-release-15 /Users/mac/.gradle/caches/8.10.2/transforms/505dc1b40a0ff341d33f3db2a6b58337/transformed/runtime-release/res
+com.orbixstar.kmpapp.composeApp-savedstate-ktx-1.2.1-16 /Users/mac/.gradle/caches/8.10.2/transforms/50cef1a5358b1fd96466bf59006058be/transformed/savedstate-ktx-1.2.1/res
+com.orbixstar.kmpapp.composeApp-material-icons-core-release-17 /Users/mac/.gradle/caches/8.10.2/transforms/555dc6ed6614fd716ec4b6807cbf710a/transformed/material-icons-core-release/res
+com.orbixstar.kmpapp.composeApp-core-runtime-2.2.0-18 /Users/mac/.gradle/caches/8.10.2/transforms/59a67ed7325fcf1f53acd0f12e2b3566/transformed/core-runtime-2.2.0/res
+com.orbixstar.kmpapp.composeApp-appcompat-resources-1.7.0-19 /Users/mac/.gradle/caches/8.10.2/transforms/5a70d717367e4a05b9aa6b1b9be412bc/transformed/appcompat-resources-1.7.0/res
+com.orbixstar.kmpapp.composeApp-coil-core-release-20 /Users/mac/.gradle/caches/8.10.2/transforms/67ce929c8b210c76a89230f506fb9b10/transformed/coil-core-release/res
+com.orbixstar.kmpapp.composeApp-foundation-release-21 /Users/mac/.gradle/caches/8.10.2/transforms/6b72a128cef4a543912724b262bf9299/transformed/foundation-release/res
+com.orbixstar.kmpapp.composeApp-core-ktx-1.13.1-22 /Users/mac/.gradle/caches/8.10.2/transforms/75907c863535370b01efe00a047cfa27/transformed/core-ktx-1.13.1/res
+com.orbixstar.kmpapp.composeApp-emoji2-1.3.0-23 /Users/mac/.gradle/caches/8.10.2/transforms/8a114477513a21d11ca667790c3e1bb0/transformed/emoji2-1.3.0/res
+com.orbixstar.kmpapp.composeApp-customview-poolingcontainer-1.0.0-24 /Users/mac/.gradle/caches/8.10.2/transforms/8b58ddcd0d9231326befa72590ae1a78/transformed/customview-poolingcontainer-1.0.0/res
+com.orbixstar.kmpapp.composeApp-lifecycle-viewmodel-savedstate-2.8.6-25 /Users/mac/.gradle/caches/8.10.2/transforms/8d58a7f6445c7d39e6cfa0ee1c9b6ae6/transformed/lifecycle-viewmodel-savedstate-2.8.6/res
+com.orbixstar.kmpapp.composeApp-material-ripple-release-26 /Users/mac/.gradle/caches/8.10.2/transforms/9342083f848f0ee69a1dd94e2ec36127/transformed/material-ripple-release/res
+com.orbixstar.kmpapp.composeApp-navigation-common-2.8.0-rc01-27 /Users/mac/.gradle/caches/8.10.2/transforms/9978eb22c81893d77bb8423ee8c90173/transformed/navigation-common-2.8.0-rc01/res
+com.orbixstar.kmpapp.composeApp-ui-release-28 /Users/mac/.gradle/caches/8.10.2/transforms/a00268089bc5865643f92be0def7cad2/transformed/ui-release/res
+com.orbixstar.kmpapp.composeApp-foundation-layout-release-29 /Users/mac/.gradle/caches/8.10.2/transforms/a4d7c05eb0e57c705308dc74f81ce4f8/transformed/foundation-layout-release/res
+com.orbixstar.kmpapp.composeApp-activity-1.9.3-30 /Users/mac/.gradle/caches/8.10.2/transforms/a565409488a31d204428f6e1353803c2/transformed/activity-1.9.3/res
+com.orbixstar.kmpapp.composeApp-lifecycle-process-2.8.6-31 /Users/mac/.gradle/caches/8.10.2/transforms/ab32b77ac5107129ab3907b4c833bdbb/transformed/lifecycle-process-2.8.6/res
+com.orbixstar.kmpapp.composeApp-activity-compose-1.9.3-32 /Users/mac/.gradle/caches/8.10.2/transforms/b362e9b466bb4af2d574561a9bebc95a/transformed/activity-compose-1.9.3/res
+com.orbixstar.kmpapp.composeApp-startup-runtime-1.1.1-33 /Users/mac/.gradle/caches/8.10.2/transforms/c565ec03eb1fdbcc646d81d309736494/transformed/startup-runtime-1.1.1/res
+com.orbixstar.kmpapp.composeApp-runtime-saveable-release-34 /Users/mac/.gradle/caches/8.10.2/transforms/c714abe191d5c056177fa7cb009e1646/transformed/runtime-saveable-release/res
+com.orbixstar.kmpapp.composeApp-ui-util-release-35 /Users/mac/.gradle/caches/8.10.2/transforms/c9b53a584764eb702bddf2cc310ad00a/transformed/ui-util-release/res
+com.orbixstar.kmpapp.composeApp-ui-tooling-preview-release-36 /Users/mac/.gradle/caches/8.10.2/transforms/cb788708de09b1a133616eae5186724c/transformed/ui-tooling-preview-release/res
+com.orbixstar.kmpapp.composeApp-navigation-runtime-ktx-2.8.0-rc01-37 /Users/mac/.gradle/caches/8.10.2/transforms/cc34f326ee9de072ade31d1b0e143e16/transformed/navigation-runtime-ktx-2.8.0-rc01/res
+com.orbixstar.kmpapp.composeApp-material-1.0.0-38 /Users/mac/.gradle/caches/8.10.2/transforms/cd40507d3a6ce0ba9a2bdf2d483a26ba/transformed/material-1.0.0/res
+com.orbixstar.kmpapp.composeApp-ui-graphics-release-39 /Users/mac/.gradle/caches/8.10.2/transforms/d021313ca2179ffd76dc566eb44bff04/transformed/ui-graphics-release/res
+com.orbixstar.kmpapp.composeApp-lifecycle-runtime-compose-release-40 /Users/mac/.gradle/caches/8.10.2/transforms/d2ce3346d724739c06d7a6afb0a559d7/transformed/lifecycle-runtime-compose-release/res
+com.orbixstar.kmpapp.composeApp-ui-tooling-data-release-41 /Users/mac/.gradle/caches/8.10.2/transforms/d33e650c40bafa0880671da36e5a7fe8/transformed/ui-tooling-data-release/res
+com.orbixstar.kmpapp.composeApp-ui-geometry-release-42 /Users/mac/.gradle/caches/8.10.2/transforms/d50d8fb292abf06fba160a4c36d4c081/transformed/ui-geometry-release/res
+com.orbixstar.kmpapp.composeApp-profileinstaller-1.4.1-43 /Users/mac/.gradle/caches/8.10.2/transforms/e15ef1dd4f528e49cf2f0c383f843e20/transformed/profileinstaller-1.4.1/res
+com.orbixstar.kmpapp.composeApp-animation-release-44 /Users/mac/.gradle/caches/8.10.2/transforms/ea82cd78b3666ad1ffab7bf8fe8d2c11/transformed/animation-release/res
+com.orbixstar.kmpapp.composeApp-lifecycle-runtime-ktx-release-45 /Users/mac/.gradle/caches/8.10.2/transforms/eaa4e0858e57e52dca730ed587b9285c/transformed/lifecycle-runtime-ktx-release/res
+com.orbixstar.kmpapp.composeApp-lifecycle-viewmodel-compose-release-46 /Users/mac/.gradle/caches/8.10.2/transforms/ebcf49cec426e4cc6c822264df148731/transformed/lifecycle-viewmodel-compose-release/res
+com.orbixstar.kmpapp.composeApp-savedstate-1.2.1-47 /Users/mac/.gradle/caches/8.10.2/transforms/f37de43424e0256d169e756fb9ee4c06/transformed/savedstate-1.2.1/res
+com.orbixstar.kmpapp.composeApp-ui-unit-release-48 /Users/mac/.gradle/caches/8.10.2/transforms/f4a81233c0833d5463187eae476fcc03/transformed/ui-unit-release/res
+com.orbixstar.kmpapp.composeApp-core-1.13.1-49 /Users/mac/.gradle/caches/8.10.2/transforms/f91ed36aad9ee5cf3f2b143607539cf3/transformed/core-1.13.1/res
+com.orbixstar.kmpapp.composeApp-pngs-50 /Users/mac/Downloads/OrbixStar Coding Test/composeApp/build/generated/res/pngs/debug
+com.orbixstar.kmpapp.composeApp-resValues-51 /Users/mac/Downloads/OrbixStar Coding Test/composeApp/build/generated/res/resValues/debug
+com.orbixstar.kmpapp.composeApp-packageDebugResources-52 /Users/mac/Downloads/OrbixStar Coding Test/composeApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.orbixstar.kmpapp.composeApp-packageDebugResources-53 /Users/mac/Downloads/OrbixStar Coding Test/composeApp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.orbixstar.kmpapp.composeApp-debug-54 /Users/mac/Downloads/OrbixStar Coding Test/composeApp/build/intermediates/merged_res/debug/mergeDebugResources
+com.orbixstar.kmpapp.composeApp-androidDebug-55 /Users/mac/Downloads/OrbixStar Coding Test/composeApp/src/androidDebug/res
+com.orbixstar.kmpapp.composeApp-androidMain-56 /Users/mac/Downloads/OrbixStar Coding Test/composeApp/src/androidMain/res
+com.orbixstar.kmpapp.composeApp-debug-57 /Users/mac/Downloads/OrbixStar Coding Test/composeApp/src/debug/res
+com.orbixstar.kmpapp.composeApp-main-58 /Users/mac/Downloads/OrbixStar Coding Test/composeApp/src/main/res
